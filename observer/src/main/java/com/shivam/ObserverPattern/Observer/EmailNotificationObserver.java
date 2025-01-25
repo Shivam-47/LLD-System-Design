@@ -11,7 +11,11 @@ public class EmailNotificationObserver implements NotificationObserver {
         this.stockObservable = stockObservable;
     }
 
-    public void update(){
+    public void updateObserver(){
+        sendEmail();
+    }
+
+    private void sendEmail(){
         System.out.printf("Email Notification of SKU %s for stock %d to email: %s\n", stockObservable.getSkuName(), stockObservable.getSKUStock(), email);
     }
 }

@@ -12,7 +12,11 @@ public class WhatsappNotificationObserver implements NotificationObserver {
         this.stockObservable = stockObservable;
     }
 
-    public void update(){
+    public void updateObserver(){
+        sendWhatsappMessage();
+    }
+
+    private void sendWhatsappMessage(){
         System.out.printf("Whatsapp Notification of SKU %s for stock: %d to phone-number: %d\n", stockObservable.getSkuName(), stockObservable.getSKUStock(), phoneNumber);
     }
 }

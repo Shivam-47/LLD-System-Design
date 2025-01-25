@@ -1,5 +1,5 @@
 package com.shivam.ObserverPattern.Observer;
 
 public interface NotificationObserver {
-    public void update();
+    public void updateObserver();
 }

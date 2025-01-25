@@ -24,7 +24,7 @@ public class IphoneObservableImpl implements StockObservable {
 
     public void notifyObservers() {
         for(NotificationObserver observer: observerList){
-            observer.update();
+            observer.updateObserver();
         }
     }
 
