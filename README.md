@@ -6,5 +6,6 @@ LLD for different systems
 <li> Decorator Pattern => <i>branch: decorator-pattern </i></li>
 <li> Chain of Responsibility Pattern => <i>branch: chain-of-responsibility</i></li>
 <li> Proxy Pattern => <i>branch: proxy-pattern</i> </li>
+<li> Null Object Pattern => <it>branch: null-object-pattern</it></li>
 <li> Tic Tac Toe => <i> branch: tic-tac-toe </i></li>
 <li> Snake and Ladder =>  <i>branch: snake_and_ladder</i></li>
