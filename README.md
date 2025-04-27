@@ -10,3 +10,4 @@ LLD for different systems
 <li> State Design Pattern => <i> branch: state-design-pattern</i></li>
 <li> Tic Tac Toe => <i> branch: tic-tac-toe </i></li>
 <li> Snake and Ladder =>  <i>branch: snake_and_ladder</i></li>
+<li> Vending Machine => <i>branch: vending-machine</i></li>
