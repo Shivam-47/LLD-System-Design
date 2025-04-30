@@ -1,0 +1,4 @@
+2025-04-30 23:52:32.932 [main] DEBUG:dummy debug log message
+2025-04-30 23:52:32.933 [main] INFO:dummy info log message
+2025-04-30 23:52:32.933 [main] WARNING:dummy warning log message
+2025-04-30 23:52:32.934 [main] ERROR:dummy error log message
