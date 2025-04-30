@@ -11,3 +11,4 @@ LLD for different systems
 <li> Tic Tac Toe => <i> branch: tic-tac-toe </i></li>
 <li> Snake and Ladder =>  <i>branch: snake_and_ladder</i></li>
 <li> Vending Machine => <i>branch: vending-machine</i></li>
+<li> Logger Design => <i> branch:  logger </i></li>
