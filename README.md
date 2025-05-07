@@ -12,3 +12,4 @@ LLD for different systems
 <li> Snake and Ladder =>  <i>branch: snake_and_ladder</i></li>
 <li> Vending Machine => <i>branch: vending-machine</i></li>
 <li> Logger Design => <i> branch:  logger </i> </li>
+<li> ATM Design => <i> branch: atm-machine </i></li>
