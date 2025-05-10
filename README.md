@@ -13,3 +13,4 @@ LLD for different systems
 <li> Vending Machine => <i>branch: vending-machine</i></li>
 <li> Logger Design => <i> branch:  logger </i> </li>
 <li> ATM Design => <i> branch: atm-machine </i></li>
+<li> File System (Composite Design Pattern) => <i>branch: composite-pattern</i></li>
