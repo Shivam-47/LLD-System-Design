@@ -14,3 +14,4 @@ LLD for different systems
 <li> Logger Design => <i> branch:  logger </i> </li>
 <li> ATM Design => <i> branch: atm-machine </i></li>
 <li> File System (Composite Design Pattern) => <i>branch: composite-pattern</i></li>
+<li> Calculator Solver => <i>branch: calculator-solver</i></li>
