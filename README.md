@@ -16,3 +16,4 @@ LLD for different systems
 <li> File System (Composite Design Pattern) => <i>branch: composite-pattern</i></li>
 <li> Calculator Solver => <i>branch: calculator-solver</i></li>
 <li> Adapter Pattern => <i>branch: adapter-pattern</i></li>
+<li> Splitwise => <i>branch: splitwise-alpha</i></li>
