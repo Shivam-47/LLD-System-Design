@@ -18,3 +18,4 @@ LLD for different systems
 <li> Adapter Pattern => <i>branch: adapter-pattern</i></li>
 <li> Splitwise => <i>branch: splitwise-alpha</i></li>
 <li> Builder Pattern => <i>branch: builder-pattern</i></li>
+<li> Bridge Pattern => <i>branch: bridge-pattern</i></li>
