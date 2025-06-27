@@ -19,3 +19,5 @@ LLD for different systems
 <li> Splitwise => <i>branch: splitwise-alpha</i></li>
 <li> Builder Pattern => <i>branch: builder-pattern</i></li>
 <li> Bridge Pattern => <i>branch: bridge-pattern</i></li>
+<li> Prototype Pattern => <i>branch: prototype-pattern</i></li>
+<li> Singleton Pattern => <i>branch: singleton-pattern </i></li>
