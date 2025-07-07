@@ -15,4 +15,11 @@ public class TurnOffConsoleCommand implements Command {
         this.console.turnOffFan();
         this.console.turnOff();
     }
+
+    @Override
+    public void undo() {
+        //business-logic
+        this.console.turnOnFan();
+        this.console.turnOn();
+    }
 }
