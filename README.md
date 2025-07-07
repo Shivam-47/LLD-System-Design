@@ -21,3 +21,5 @@ LLD for different systems
 <li> Bridge Pattern => <i>branch: bridge-pattern</i></li>
 <li> Prototype Pattern => <i>branch: prototype-pattern</i></li>
 <li> Singleton Pattern => <i>branch: singleton-pattern </i></li>
+<li> Flyweight Pattern => <i>branch: flyweight-pattern </i></li>
+<li> Command Pattern => <i>branch: command-pattern </i></li>
