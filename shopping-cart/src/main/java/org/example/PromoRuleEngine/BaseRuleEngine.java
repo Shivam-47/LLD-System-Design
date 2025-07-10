@@ -3,6 +3,14 @@ package org.example.PromoRuleEngine;
 import org.example.Product.ElectronicProduct;
 import org.example.Product.FoodProduct;
 import org.example.Product.Product;
+import org.example.PromoRuleEngine.Actions.CombinedAction;
+import org.example.PromoRuleEngine.Actions.FlatDiscountAction;
+import org.example.PromoRuleEngine.Actions.PercentageDiscountAction;
+import org.example.PromoRuleEngine.Actions.PromotionAction;
+import org.example.PromoRuleEngine.Rules.CompositeRule;
+import org.example.PromoRuleEngine.Rules.MinimumPriceRule;
+import org.example.PromoRuleEngine.Rules.ProductTypeRule;
+import org.example.PromoRuleEngine.Rules.Rule;
 import org.example.Promos.FlatPromo;
 import org.example.Promos.PercentagePromo;
 
