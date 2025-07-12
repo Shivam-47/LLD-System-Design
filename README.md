@@ -25,3 +25,4 @@ LLD for different systems
 <li> Command Pattern => <i>branch: command-pattern </i></li>
 <li> Iterator Pattern => <i>branch: iterator-pattern</i></li>
 <li> Mediator Pattern => <i> branch: mediator-pattern</i></li>
+<li> Visitor Pattern => <i> branch: visitor-pattern</i></li>
