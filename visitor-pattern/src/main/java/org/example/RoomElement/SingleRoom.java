@@ -1,6 +1,7 @@
 package org.example.RoomElement;
 
-import org.example.RoomOperationVisitor.RoomOperationVisitor;
+import org.example.Interfaces.RoomElement;
+import org.example.Interfaces.RoomOperationVisitor;
 
 public class SingleRoom implements RoomElement {
     private String roomName;

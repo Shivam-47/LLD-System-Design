@@ -1,4 +1,4 @@
-package org.example.RoomOperationVisitor;
+package org.example.Interfaces;
 
 import org.example.RoomElement.*;
 

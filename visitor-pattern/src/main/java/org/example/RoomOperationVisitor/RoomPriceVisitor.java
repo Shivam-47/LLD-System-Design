@@ -1,8 +1,9 @@
 package org.example.RoomOperationVisitor;
 
+import org.example.Interfaces.RoomOperationVisitor;
 import org.example.RoomElement.*;
 
-public class RoomPriceVisitor implements  RoomOperationVisitor {
+public class RoomPriceVisitor implements RoomOperationVisitor {
     @Override
     public void visit(SingleRoom room) {
         System.out.println("Calculating price for Single Room: " + room.getRoomName() + " with number: " + room.getRoomNumber());

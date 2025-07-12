@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.Interfaces.RoomElement;
+import org.example.Interfaces.RoomOperationVisitor;
 import org.example.RoomElement.*;
 import org.example.RoomOperationVisitor.*;
 

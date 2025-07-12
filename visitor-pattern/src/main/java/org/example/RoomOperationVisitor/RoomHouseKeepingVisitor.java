@@ -1,5 +1,6 @@
 package org.example.RoomOperationVisitor;
 
+import org.example.Interfaces.RoomOperationVisitor;
 import org.example.RoomElement.*;
 
 public class RoomHouseKeepingVisitor implements RoomOperationVisitor {
