@@ -26,3 +26,4 @@ LLD for different systems
 <li> Iterator Pattern => <i>branch: iterator-pattern</i></li>
 <li> Mediator Pattern => <i> branch: mediator-pattern</i></li>
 <li> Visitor Pattern => <i> branch: visitor-pattern</i></li>
+<li> Memento Pattern => <i> branch: memento-pattern</i></li>
