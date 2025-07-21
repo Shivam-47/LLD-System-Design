@@ -28,3 +28,4 @@ LLD for different systems
 <li> Visitor Pattern => <i> branch: visitor-pattern</i></li>
 <li> Memento Pattern => <i> branch: memento-pattern</i></li>
 <li> Template Pattern => <i> branch: template-pattern</i></li>
+<li> Interpreter Pattern => <i> branch: interpreter-pattern </i></li>
